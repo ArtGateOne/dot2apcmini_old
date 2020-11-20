@@ -1,4 +1,5 @@
 # dot2apcmini
+v1.0.7
 This nodejs code is for control dot2 (DMX) console or software with Akai APC mini (midi controller) required installed nodejs v 14.15.0
 
 
@@ -21,4 +22,4 @@ node dot2acpmini
 
 
 
-when code stop workinkg - unlug midi device & stop proces use ctr + c
+when code stop workinkg - unplug midi device & stop proces use ctr + c
