@@ -11,15 +11,21 @@ Run dot2 on pc.
 Turn on webremote
 Set password "remote"
 
-run this code grom command line
+run this code from command line
 
 (run cdm
 cd to code destinaton folder
-ex. cd c:dot2apcmin
+ex. cd c:/dot2apcmini
 
 to run type command
 node dot2acpmini
 
+when code start - schow all available midi devices (in & out)
+default open akai in 0 and out 1
+
+var input = new easymidi.Input('APC MINI 0');
+var output = new easymidi.Output('APC MINI 1');
 
 
-when code stop workinkg - unplug midi device & stop proces use ctr + c
+
+when U want control dot2 console - find in code "localhost" ang change it to uou console IP addres
