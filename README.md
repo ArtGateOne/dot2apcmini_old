@@ -1,7 +1,7 @@
 # dot2apcmini
 v1.0.7
 This nodejs code is for control dot2 (DMX) console or software with Akai APC mini (midi controller) required installed nodejs v 14.15.0
-
+https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi
 
 How to run?
 
