@@ -1,6 +1,6 @@
 # dot2apcmini
 v1.0.7
-This nodejs code is for control dot2 (DMX) console or software with Akai APC mini (midi controller) required installed nodejs v 14.15.0
+This nodejs code is for control dot2 (DMX) console or software with Akai APC mini (midi controller) required installed nodejs v 14.17.0
 https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi
 
 How to run?
@@ -29,3 +29,8 @@ var output = new easymidi.Output('APC MINI 1');
 
 
 when U want control dot2 console - find in code "localhost" ang change it to uou console IP addres
+
+
+- THIS IS OLD CODE !
+
+PLS GO TO NEW CODE https://github.com/ArtGateOne/dot2apcmini2
